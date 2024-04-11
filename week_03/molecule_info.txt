@@ -1,0 +1,3 @@
+Molecule: Serotonine
+Image URL: https://github.com/Liloubft/ppchem/blob/main/serotonine.png
+Description: Serotonin or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter.
